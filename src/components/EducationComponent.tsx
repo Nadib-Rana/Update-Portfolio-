@@ -15,21 +15,21 @@ const demoEducation: IEdu[] = [
     degree: "Bachelor of Science in Computer Science & Engineering",
     institution: "Green University of Bangladesh",
     year: 2024,
-    grade: "CGPA: 3.85/4.00",
+    grade: "CGPA: 3.10/4.00",
   },
   {
     _id: "2",
     degree: "Higher Secondary Certificate (Science)",
-    institution: "Dhaka Imperial College",
+    institution: "Karimganj Govt. college",
     year: 2019,
-    grade: "GPA: 5.00",
+    grade: "GPA: 4.00",
   },
   {
     _id: "3",
     degree: "Secondary School Certificate (Science)",
-    institution: "Uttara High School & College",
+    institution: "Guzadia A.H High School & College",
     year: 2017,
-    grade: "GPA: 5.00",
+    grade: "GPA: 4.18",
   },
 ];
 
