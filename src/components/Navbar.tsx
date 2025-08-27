@@ -4,7 +4,7 @@ const Navbar: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const navItems = [
-     {  label: "All",  path: "/" },
+     {  label: "All",  path: "/Update-Portfolio-" },
     { label: "About", path: "/about" },
     { label: "Education", path: "/education" },
      { label: "Skills", path: "/skills" },
