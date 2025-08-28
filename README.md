@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
-Project URL: https://github.com/Nadib-Rana/Update-Portfolio-
+[Project URL: https://github.com/Nadib-Rana/Update-Portfolio-](https://nadib-rana.github.io/Update-Portfolio-/)
 ```
-https://github.com/Nadib-Rana/Update-Portfolio-
+[https://github.com/Nadib-Rana/Update-Portfolio-](https://nadib-rana.github.io/Update-Portfolio-/)
 ```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
